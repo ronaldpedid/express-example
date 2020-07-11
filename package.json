@@ -1,0 +1,23 @@
+{
+  "name": "simple-express-server-ronaldpedid",
+  "version": "1.0.0",
+  "description": "Clone down your repository.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uark-backend-class/simple-express-server-ronaldpedid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uark-backend-class/simple-express-server-ronaldpedid/issues"
+  },
+  "homepage": "https://github.com/uark-backend-class/simple-express-server-ronaldpedid#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
