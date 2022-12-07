@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/uark-backend-class/simple-express-server-ronaldpedid#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
